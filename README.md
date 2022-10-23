@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Dennis Nichols's React Portfolio
 
-Make it your own! 
+[Live Site!](https://grand-gumption-430fe3.netlify.app/)
