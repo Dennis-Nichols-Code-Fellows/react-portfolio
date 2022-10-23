@@ -11,90 +11,65 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Code Rivals",
+      "startDate": "2022",
+      "description": "My first Code Fellows group project, Code Rivals is browser playable game that incorporates important programmers throughout history inspired by the pokemon battle interface. I took the lead on the JavaScript components of this project and was able to improve my skill in DOM manipulation greatly through this experience.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/CodeRivals/code-rivals.png"
       ],
-      "url": "",
+      "url": "https://github.com/Code-201-Final-GroupE/code-rivals",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-html5-plain",
+          "name": "HTML"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
+      "title": "Code 301 Final Project",
+      "startDate": "2022",
+      "description": "This is a placeholder for my Code Fellows Course 301 final project. This project will be implemented using the MERN stack.",
+      "images": ["images/portfolio/TBD/webfactory-ltd-NoOrDKxUfzo-unsplash.jpg"],
+      "url": "https://github.com/Code-201-Final-GroupE/code-rivals",
       "technologies": [
         {
-          "class": "devicon-react-original",
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-plain",
           "name": "React"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "Python"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "US Centers for Disease Control and Prevention",
+      "title": "Microbiologist / Project Manager",
+      "years": "07.2020 - 05.2022",
+      "mainTech": ["Microsoft Office 365"],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Microsoft Office 365",
+        "QGIS",
+        "RStudio",
+        "Microsoft Teams"
       ]
     },
     {
