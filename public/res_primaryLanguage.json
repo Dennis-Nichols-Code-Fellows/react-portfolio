@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Dennis Nichols. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "👋 I'm Dennis Nichols. I'm on a journey to become a Python data engineer and MERN stack developer and I am determined to work on climate and health challenges with information technology. I'm working with front-end libraries like React and I'm developing my data manipulation and vizualization skills with Python's Pandas and Matplotlib modules. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -65,12 +65,12 @@
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "Python"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
           "class": "devicon-csharp-plain",
