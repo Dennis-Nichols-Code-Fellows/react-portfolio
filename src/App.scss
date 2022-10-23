@@ -21,7 +21,7 @@ html {
 
 .title-styles {
 	font-family: 'Raleway', sans-serif;
-	font-size: 250%;
+	font-size: 350%;
 }
 
 .header-icon {
@@ -30,6 +30,7 @@ html {
 }
 
 header {
+	color: white;
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -38,7 +39,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	// background-color: #e9d5a1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -47,10 +48,31 @@ header {
 	padding-bottom: 0;
 }
 
+#background-video {
+  height: 100vh;
+  width: 100vw;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+@media (max-width: 750px) {
+    #background-video { display: none; }
+    body {
+      background: url("https://assets.codepen.io/6093409/river.jpg") no-repeat;
+      background-size: cover;
+    }
+}
+
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	color: white;
 }
 
 .github-corner:hover .octo-arm {
@@ -95,7 +117,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: white;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -231,7 +253,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #4e96ae;
 }
 
 .experience-icon {
@@ -353,7 +375,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #4e96ae;
 	padding-bottom: 5%;
 }
 
